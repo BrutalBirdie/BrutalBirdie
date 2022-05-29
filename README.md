@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello There. 👋
+
+![Hello There. - https://knowyourmeme.com/memes/hello-there](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
 <!--
 **BrutalBirdie/BrutalBirdie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
