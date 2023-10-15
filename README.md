@@ -4,9 +4,14 @@
 
 ---
 
-### Hello There. 👋
+<p align="center"> 👋 Hello There 👋 </p>
 
-![Hello There. - https://knowyourmeme.com/memes/hello-there](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
+
+<!-- ![Hello There. - https://knowyourmeme.com/memes/hello-there](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)-->
+
+<p align="center">
+  <img width="500" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" alt="obi wan kenobi saying Hello There">
+</p>
 
 <!--
 **BrutalBirdie/BrutalBirdie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
