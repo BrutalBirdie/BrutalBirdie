@@ -62,7 +62,7 @@ $ groups
 cloudron  docker  ansible  nodebb  meshtastic  meshcore  reticulum  cloudfest
 
 $ uptime
- on GitHub since 2016 · still here · load average: yes, yes, yes
+on GitHub since 2016 · still here · load average: yes, yes, yes
 ```
 
 ---
